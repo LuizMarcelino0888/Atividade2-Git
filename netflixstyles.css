@@ -1,5 +1,5 @@
 :root {
-	--primary-color: #e50914;
+	--primary-color: #3510bc;
 }
  
 * {
@@ -11,7 +11,7 @@
 body {
 	font-family: 'Arial' , sans-serif;
 	--webkit-font-smoothing: antialiased;
-	background: #000;
+	background: #048f29;
 	color: #999;
 	text-align: center;
 }
@@ -25,7 +25,7 @@ h1{
 }
 
 h1, h2, h3, h4 {
-	color: #fff;
+	color: #fff713;
 }
 
 a{
